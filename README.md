@@ -1,2 +1,2 @@
 # idp-droid
-Used by International Dunhuang Repository to communicate around Droid reports for images
+Used by International Dunhuang Project to communicate around Droid reports for images
