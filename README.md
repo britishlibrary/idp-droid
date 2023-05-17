@@ -5,9 +5,11 @@ Used by International Dunhuang Project to communicate around Droid reports for i
 
 For the listing (Droid Profiles) a few folders at a time see https://github.com/britishlibrary/idp-droid/tree/main/droid_idp_tiffs_20230505
 
-Droid software can be used to export these as CSV files. Warning: best done on a Mac.
+Droid software can be used to export these as CSV files. Warning: best done on a Mac - corruption occurs if open the profiles in Windows and attempt export there. 
+
+I generated CSVs for Laurence using a Mac but those are NOT included in this repo since they are too large. They were sent using WeTransfer (?)
 
 
 ### Analysis of those Droid listings by Laurence Roger
 
-See https://github.com/britishlibrary/idp-droid/issues/1
+See https://github.com/britishlibrary/idp-droid/issues/1 where there is a summary and a link to an Excel sheet. LR also has a larger Excel sheet she could send via WeTransfer.
