@@ -1,0 +1,1 @@
+For accompanying email from Laurence (to which this Excel sheet was attached) see https://github.com/britishlibrary/idp-droid/issues/1
